@@ -31,30 +31,9 @@ local = 1111
 classifDados = 111
 
 # ------------------------------------------------------------------
-# EXEMPLO
+# EXEMPLO DE REQUISIÇÃO:
 100
 110
 100000
 110
-
-# ------------------------------------------------------------------
-# ------------------------------------------------------------------
-# ------------------------------------------------------------------
-DADOS DE ENTRADA (RELATÓRIOS, ESTATÍSTICAS, CURADORES, CONSULTORES) (14 campos)
-[empresa,ano,avaliação,infoA,infoB,dadoA,dadoAB,referencia,reputacao,periodicidade,cobertura,escopo,abrangencia,metodologia]
-empresa = [0]
-ano = [1]
-avaliação = [2]
-infoA = [3]
-infoB = [4]
-dadoA = [5]
-dadoAB = [6]
-referencia = [7]
-reputacao = [8]
-periodicidade = [9]
-cobertura = [10]
-escopo = [11]
-abrangencia = [12]
-metodologia = [13]
-
-
+Brazil
